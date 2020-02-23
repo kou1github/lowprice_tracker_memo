@@ -9,4 +9,32 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
     <OutputPath>.\</OutputPath>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+    <None Include="lowprice_tracker_memo.mdproj" />
+    <None Include=".gitignore" />
+    <None Include="lowprice_tracker_memo.sln" />
+    <None Include=".git\config" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\description" />
+    <None Include=".git\index" />
+    <None Include=".git\FETCH_HEAD" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\master" />
+    <None Include=".git\logs\refs\remotes\origin\master" />
+    <None Include=".git\hooks\README.sample" />
+    <None Include=".git\objects\59\f1a957decd362d338672b343d7d23024e94cd3" />
+    <None Include=".git\objects\3d\1fcfd08f011539810f2e79d5894a34f392b601" />
+    <None Include=".git\objects\ed\9dbcb21b63ef0f0602f0cc3a0ffba75eb25786" />
+    <None Include=".git\objects\pack\pack-2620519896d8f9a87ac1cd9c2f64fd1e408f2fb2.idx" />
+    <None Include=".git\objects\pack\pack-2620519896d8f9a87ac1cd9c2f64fd1e408f2fb2.pack" />
+    <None Include=".git\objects\72\32b018fd4a4897c66fc801eb81ebf0b4c63e90" />
+    <None Include=".git\objects\24\d7c9e264fdbeec0b235c7ea14235c1aef86e7b" />
+    <None Include=".git\objects\12\0a13459323807fe0bf5444bb998ae4519c7059" />
+    <None Include=".git\refs\heads\master" />
+    <None Include=".git\refs\remotes\origin\master" />
+    <None Include=".vs\lowprice_tracker_memo\xs\UserPrefs.xml" />
+    <None Include="20200222_01.md" />
+  </ItemGroup>
 </Project>
